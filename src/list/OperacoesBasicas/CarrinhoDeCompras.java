@@ -1,6 +1,4 @@
-package list.OperacoesBasicas.exercicio2;
-
-import list.OperacoesBasicas.exercicio1.Tarefa;
+package list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
