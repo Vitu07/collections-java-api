@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class ConjuntoPalavrasUnicas {
 
-    Set<String> uniqueWordSet;
+    private Set<String> uniqueWordSet;
 
     public ConjuntoPalavrasUnicas() {
         this.uniqueWordSet = new HashSet<>();
