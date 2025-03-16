@@ -50,9 +50,6 @@ public class CadastroProdutos {
         System.out.println(cadastroProdutos.productSet);
         System.out.println("ordem alfabética: " + cadastroProdutos.exibirProdutosPorNome());
         System.out.println("ordem por preco: " + cadastroProdutos.exibirProdutosPorPreco());
-
-
     }
-
 
 }
