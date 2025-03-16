@@ -1,6 +1,5 @@
-package set.OperacoesBasicas;
+package main.set.OperacoesBasicas;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
